@@ -1,2 +1,6 @@
-clone1
+make test conflict
+make conflict
 clone2
+add-vanbar
+change-navbar
+change-after-pull-request
